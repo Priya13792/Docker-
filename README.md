@@ -1,5 +1,6 @@
 # Docker-
 What is Virtualization?
+
 [Docker](https://stackify.com/docker-tutorial/) Virtualization refers to importing a guest operating system on our host operating system, allowing developers to run multiple OS on different VMs while all of them run on the same host, thereby eliminating the need to provide extra hardware resources.
 
 These virtual machines are being used in the industry in many ways as follows:
@@ -9,7 +10,7 @@ These virtual machines are being used in the industry in many ways as follows:
 •	Faster provisioning of applications and resources required for tasks
 •	Increase in IT productivity, efficiency, and responsiveness
 
-Let’s check out the working of VMs with the architecture and also understand the issues faced by them. [Docker tutorial])https://stackify.com/docker-tutorial/).
+Let’s check out the working of VMs with the architecture and also understand the issues faced by them. [Docker tutorial](https://stackify.com/docker-tutorial/).
 
 What is a Virtualization Host?
 From the above VM architecture, it is easy to figure out that the three guest operating systems acting as virtual machines are running on a host operating system. In virtualization, the process of manually reconfiguring hardware and firmware and installing a new OS can be entirely automated; all these steps get stored as data in any files of a disk.
@@ -22,4 +23,4 @@ How did containerization overcome these issues? Let’s discuss this further in 
 
 [What is Docker and Docker Container?](https://www.simplilearn.com/tutorials/docker-tutorial).
 
-Or, let’s understand what exactly containerization is in this [Docker for beginners tutorial] (https://intellipaat.com/blog/tutorial/devops-tutorial/docker-tutorial/).
+Or, let’s understand what exactly containerization is in this [Docker for beginners tutorial](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-tutorial/).
